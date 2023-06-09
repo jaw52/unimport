@@ -60,7 +60,7 @@
     "@nuxtjs/eslint-config-typescript": "^12.0.0",
     "@vitest/coverage-c8": "^0.32.0",
     "bumpp": "^9.1.1",
-    "conventional-changelog-cli": "^2.2.2",
+    "conventional-changelog-cli": "^3.0.0",
     "eslint": "8.42.0",
     "h3": "^1.6.6",
     "jquery": "^3.7.0",
